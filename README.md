@@ -1,0 +1,2 @@
+# Reconnaissance-d-objets-
+La reconnaissance d’objets a pour objectif d’identifier un objet particulier dans une base de données image ou une vidéo. Cette identification est effectuée grâce à des attributs décrivant la forme, la couleur et/ou la texture. Dans ce TP, on me propose de caractériser 4 classes d’objets. J'ai évalué la pertinence de cette caractérisation en présentant au système de nouveaux objets et en vérifiant si ceux-ci sont assignés correctement à leur classe d’appartenance
